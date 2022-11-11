@@ -1,8 +1,8 @@
 #A python project on building a quiz portal for students.
 #Project group Members:-
                  #kashish shukla
-	         #satyam kumar
-#A python project on building a quiz portal done by satyam kumar and kashish shukla.
+	         #kshitij kumar
+#A python project on building a quiz portal done by kshitij kumar and kashish shukla.
 import os
 import csv
 import sqlite3
